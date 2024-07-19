@@ -2,17 +2,11 @@
 
 # I'm a Software Engineer at D.A. Davidson Companies
 
-Welcome to my GitHub profile! I am a driven professional with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics in finance.
+Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics in finance.
 
 - 📫 Reach me at [akmikey72@gmail.com](mailto:akmikey72@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mbelmear/)
 
-## Education:
-**Montana State University, Bozeman, MT**  
-B.A. in Computer Science, B.S. in Finance  
-Minors in Accounting, Data Science, and Economics  
-Cumulative GPA: 3.74/4.0
-
-## Technical Skills:
+## Technologies I have experience with:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
