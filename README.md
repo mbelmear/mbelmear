@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋 
 
-### I'm a Software Engineer at D.A. Davidson Companies
+# I'm a Software Engineer at D.A. Davidson Companies
 
 <!--
 **mbelmear/mbelmear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
