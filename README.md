@@ -1,4 +1,4 @@
-## Hi, I'm Michael 👋 
+# Hi, I'm Michael 👋 
 
 Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics in finance.
 
