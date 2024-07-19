@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am a Software Engineer at D.A. Davidson Companies
 
-## Here are the languages, technologies, and frameworks I have experience with as a developer:
+## Languages, technologies, and frameworks I have experience with:
