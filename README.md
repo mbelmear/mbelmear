@@ -16,12 +16,9 @@ Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Comp
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-FFBF00?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-217346?logo=microsoftaccess&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
