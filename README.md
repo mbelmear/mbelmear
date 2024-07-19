@@ -2,21 +2,26 @@
 
 # I'm a Software Engineer at D.A. Davidson Companies
 
-<!--
-**mbelmear/mbelmear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a driven professional with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics in finance.
 
-Here are some ideas to get you started:
+- 📫 Reach me at [akmikey72@gmail.com](mailto:akmikey72@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mbelmear/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 📫 Reach me at akmikey72@gmail.com or message me on LinkedIn
-- 
+## Technical Skills:
+- **Programming Languages:**
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+- **Technologies/Frameworks:**
+  - ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+  - ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
-## Languages, technologies, and frameworks I have experience with:
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
