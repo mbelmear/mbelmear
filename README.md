@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋 
 
-Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics in finance.
+Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, alongside minors in Accounting, Data Science, and Economics. I excel in bridging finance and technology, aiming to create impactful fintech solutions through innovative software development and data analytics.
 
 - 📫 Reach me at [akmikey72@gmail.com](mailto:akmikey72@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mbelmear/)
 
