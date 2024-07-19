@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michael 👋
 
 <!--
 **mbelmear/mbelmear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Software Engineer at D.A. Davidson Companies
+
+## Here are the languages, technologies, and frameworks I have experience with as a developer:
