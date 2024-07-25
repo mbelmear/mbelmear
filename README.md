@@ -1,6 +1,6 @@
 # Hi, I'm Michael 👋 
 
-Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, and minors in Accounting, Data Science, and Economics from Montana State University. I specialize in developing fintech solutions by leveraging my expertise to build applications in the financial services industry at D.A. Davidson Companies.
+Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Computer Science and Finance, and minors in Accounting, Data Science, and Economics from Montana State University. I specialize in developing fintech solutions by leveraging my expertise to build full-stack applications in the financial services industry.
 
 - 📫 Reach me at [akmikey72@gmail.com](mailto:akmikey72@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/mbelmear/)
 
