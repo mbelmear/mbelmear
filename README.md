@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I am a Software Engineer with dual degrees in Comp
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
