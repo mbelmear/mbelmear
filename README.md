@@ -18,27 +18,60 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img height="32" src="https://skillicons.dev/icons?i=ts,js,rust" alt="TypeScript, JavaScript, Rust"> &nbsp;SQL</td>
+    <td>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust">
+    </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img height="32" src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS"> &nbsp;React Native</td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+    </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img height="32" src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Node.js, Express, Prisma"> &nbsp;SQL Server · OpenAPI / Swagger</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/-OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+      <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma">
+      <img src="assets/badges/sql-server.svg" alt="SQL Server">
+    </td>
   </tr>
   <tr>
     <td><b>Testing</b></td>
-    <td><img height="32" src="https://skillicons.dev/icons?i=jest" alt="Jest"> &nbsp;Playwright</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" alt="Jest">
+      <img src="assets/badges/playwright.svg" alt="Playwright">
+    </td>
   </tr>
   <tr>
     <td><b>Infra & tools</b></td>
-    <td><img height="32" src="https://skillicons.dev/icons?i=cloudflare,git,npm" alt="Cloudflare, Git, npm"></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare">
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white" alt="npm">
+    </td>
   </tr>
   <tr>
     <td><b>AI</b></td>
-    <td>Claude Code · Codex · Claude API · OpenAI API</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=claude&logoColor=white" alt="Claude Code">
+      <img src="assets/badges/codex.svg" alt="Codex">
+      <img src="https://img.shields.io/badge/-Claude%20API-191919?logo=anthropic&logoColor=white" alt="Claude API">
+      <img src="assets/badges/openai-api.svg" alt="OpenAI API">
+    </td>
   </tr>
 </table>
 
