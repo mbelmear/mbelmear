@@ -85,9 +85,12 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 - B.S. in Business Finance
 - Minors in Accounting, Data Science, and Economics
 
-**Certifications**
-- Certified Scrum Developer
-- FINRA SIE & Series 99
+**FINRA**
+- Series 99: Operations Professional · December 2025
+- Securities Industry Essentials (SIE) · August 2022
+
+**Scrum Alliance**
+- Certified Scrum Developer (CSD) · September 2025
 
 ### 📫 Reach me
 
