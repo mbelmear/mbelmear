@@ -5,7 +5,7 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 
 ### 🚀 What I'm building
 
-- **[Potluck](https://potluck.team)**: AI-powered async decisions. Describe a topic, your team answers on their own time, and Potluck synthesizes where you agree, where you don't, and what to do next. Skip the meeting, or walk into it with the context already gathered. · [iOS](https://apps.apple.com/us/app/potluck-team-intelligence/id6759871636) · [Android](https://play.google.com/store/apps/details?id=team.potluck)
+- **[Potluck](https://potluck.team)**: AI-powered async decisions. Describe a topic, your team answers on their own time, and Potluck synthesizes where you agree, where you don't, and what to do next. Skip the meeting, or walk into it with the context already gathered.
 - **D.A. Davidson Companies**: Software Engineer II, building full-stack web and mobile apps for financial services.
 
 ### 🔭 Currently
