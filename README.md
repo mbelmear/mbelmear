@@ -10,7 +10,7 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 
 ### 🔭 Currently
 
-- 🎓 Starting an **M.S. in Computer Science at Georgia Tech** (Computing Systems specialization) in January 2027
+- 🎓 Starting my **M.S. in Computer Science at Georgia Tech** in January 2027
 - 🎙️ Hosting [**Jester's Privilege**](https://jestersprivilegepodcast.com/), and built [its site](https://github.com/mbelmear/jesters-privilege) agent-first with Claude Code
 
 ### 🛠️ Tech
