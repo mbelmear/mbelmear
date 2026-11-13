@@ -77,8 +77,14 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 
 ### 🎓 Background
 
-**B.A. Computer Science** & **B.S. Business Finance**, Montana State University: Highest Honors, 3.74 GPA, minors in Accounting, Data Science and Economics.<br>
-**Certified Scrum Developer** · **FINRA SIE** · **Series 99**
+**Montana State University**
+- B.A. Computer Science & B.S. Business Finance
+- Highest Honors · 3.74 GPA
+- Minors in Accounting, Data Science and Economics
+
+**Certifications**
+- Certified Scrum Developer
+- FINRA SIE & Series 99
 
 ### 📫 Reach me
 
