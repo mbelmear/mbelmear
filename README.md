@@ -77,6 +77,9 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 
 ### 🎓 Background
 
+**Georgia Institute of Technology** · Starting January 2027
+- M.S. in Computer Science, Computing Systems specialization
+
 **Montana State University** · Highest Honors · December 2024
 - B.A. in Computer Science
 - B.S. in Business Finance
