@@ -78,8 +78,7 @@ Cofounder · AI & Software Engineer at [Potluck](https://potluck.team) · Softwa
 ### 🎓 Background
 
 **Montana State University**
-- B.A. Computer Science & B.S. Business Finance
-- Highest Honors · 3.74 GPA
+- B.A. Computer Science & B.S. Business Finance, with Highest Honors
 - Minors in Accounting, Data Science and Economics
 
 **Certifications**
